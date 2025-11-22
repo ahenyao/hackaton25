@@ -21,7 +21,7 @@
 </ul>
 <h2>Platformy:</h2>
 <ul>
-  <li>🖥️ Windows</li>
+  <li>🖥️ Windows / Linux</li>
 </ul>
 <br>
 <h2>📄 Licencja</h2>
