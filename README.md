@@ -1,7 +1,7 @@
 ![Hackaton](https://img.shields.io/badge/Hackaton%20SCI-The%20Wall🧱-grey)
-<h1>The Wall 🧱</h1>
+<h1><strong>The Wall 🧱</strong></h1>
 <h2>Założenia gry 🎯</h2>
-<p>Gra "The Wall" opowiada o burzeniu barier, jest osadzona w Berlinie lat 80'.</p>
+<p>Gra <em><strong>"The Wall"</strong></em> opowiada o burzeniu barier, jest osadzona w Berlinie lat 80'.</p>
 <p>Akcja skupia się wokół młodej pary, która została rozdzielona przez mur. Próbują oni, na przeciw wielkiej polityce, być razem we świecie, który rozdziela Żelazna Kurtyna.</p>
 <p>Gracz wcieli się w postać Johanna - młodego obywatela NRD, który przymusowo służy w NVA i próbuje wykorzystać to do ucieczki na Zachód, a także jego wybranki - Emmy, młodej niemki z Berlina Zachodniego.</p>
 <p>Aby sprostać postawionym zadaniom, gracz będzie musiał przełączać się między tymi postaciami.</p>
