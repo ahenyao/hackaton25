@@ -13,6 +13,19 @@
   <li>Pixelowa grafika wzorowana archiwalnymi zdjęciami 📷</li>
   <li>Kontrast szarości państw Bloku Wschodniego zestawiony z barwnym i buntowniczym Berlinem Zachodnim ⬛️⬜️</li>
 </ul>
+<h2>🛠️ Wykorzystane technologie: </h2>
+<ul>
+  <li>💻 Unity 6000.2.7f2</li>
+  <li>🧑‍💻 C# / .NET</li>
+  <li>🖌️ Aseperite, Piska</li>
+</ul>
+<h2>Platformy:</h2>
+<ul>
+  <li>🖥️ Windows</li>
+</ul>
+<br>
+<h2>📄 Licencja</h2>
+<p>Ten projekt jest objęty licencją <strong>MIT</strong>. Aby zobaczyć szczegóły sprawdź plik <a href="LICENSE">LICENSE</a></p>
 <br>
 <h3>O projekcie: </h3>
 <p>Gra "The Wall" powstała jako projekt na Hackaton SCI 2025. Jest ona naszą interpretacją tematu: "Przełamać bariery"</p>
